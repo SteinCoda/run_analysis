@@ -2,10 +2,10 @@
 course project
 
 ============================================================================================
-aim to clean 
+aim to clean
 Human Activity Recognition Using Smartphones Dataset for further analysis
 especailly we need the mean and standard deviation for each measurement
-thess are 5 steps we should go through to cleaning the data set which could be download 
+thess are 5 steps we should go through to cleaning the data set which could be download
 from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 ============================================================================================
 
